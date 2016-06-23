@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/pic">
+        <file>pic/umbb.png</file>
+        <file>pic/376px-Air_Algérie_-_Logo.svg_(1).png</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file>icon/new_t.png</file>
+        <file>icon/system_tools.png</file>
+        <file>icon/Connect.png</file>
+        <file>icon/Connected.png</file>
+        <file>icon/Disconnect.png</file>
+        <file>icon/Disconnected.png</file>
+    </qresource>
+</RCC>
